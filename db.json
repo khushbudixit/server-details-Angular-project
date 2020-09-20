@@ -1,0 +1,54 @@
+{
+  "resto": [
+    {
+      "name": "Dominoz",
+      "Address": "Yelahanka, Bangalore",
+      "mobile": "dominoz@gmail.com",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "pooja",
+      "Password": "908647",
+      "mobile": "poojadixit@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "khush",
+      "Password": "123",
+      "mobile": "kushboo19dixit@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "john",
+      "Password": "john123",
+      "mobile": "john@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "john",
+      "Password": "john123",
+      "mobile": "john@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "john",
+      "Password": "john123",
+      "mobile": "john@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "flames pizza",
+      "Password": "123",
+      "mobile": "flames@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "khushbu Devendra Dixit",
+      "Password": "123",
+      "mobile": "kushboo19dixit@gmail.com",
+      "id": 7
+    }
+  ]
+}
